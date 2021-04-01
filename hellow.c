@@ -4,7 +4,7 @@ int main()
   printf("Hello World");
   // Here is a comment
   printf("Something else");
-  // Now return from main
+  // Now return from main and...
   return;
 }
 
